@@ -1,1 +1,3 @@
 # DANA
+
+In June 2024, Valencia, Spain, faced severe flooding caused by a Dana (Depresión Aislada en Niveles Altos), resulting in extensive damage to infrastructure, urban areas, and agriculture. This study uses Sentinel-2 and Sentinel-1 satellite imagery with Google Earth Engine to assess the flood's impact through advanced remote sensing techniques, including cloud masking, histogram matching, and pansharpening. Key changes in vegetation, water bodies, and urban areas were identified using spectral indices such as NDVI, NDWI, and NDBI. The analysis highlights the utility of satellite data and cloud-based tools for rapid, cost-effective flood mapping and disaster management.
